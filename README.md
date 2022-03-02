@@ -1,4 +1,4 @@
-### Hello World
+### Hi
 
 I love ❤️ coding and bringing ideas to life. I found on Elixir and Phoenix stack a great road mate. 
 
