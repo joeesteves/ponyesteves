@@ -2,7 +2,7 @@
 
 I love ❤️ coding and bringing ideas to life. I found on Elixir and Phoenix a great road mate. 
 
-You can write me anytime at joe@caravana.dev
+You can write me anytime at jose@esteves.ar
 
 Check [Cara|>ana](https://caravana.dev) 
 
