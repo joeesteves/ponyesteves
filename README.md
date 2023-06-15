@@ -1,6 +1,7 @@
 ### Hi
 
 I love ❤️ coding and bringing ideas to life. I found on Elixir and Phoenix a great road mate. 
+Learning Haskell λ
 
 You can write me anytime at jose@esteves.ar
 
